@@ -1,0 +1,1 @@
+# bobo-hlwm-config
